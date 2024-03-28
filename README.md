@@ -17,4 +17,4 @@ To gain a better understanding of the overall structure and quality of the datas
 First,I read the CSV file “the_oscar_award.csv” ,Then, I get an overview of the numerical properties of the dataset and assess the overall quality of the data (for identifying any outliers, or skewness in the distribution):Next, we get an overview of the data’s metadata such as data size, and data types to assess the overall data structure,Finally, we check for missing data:
 Cleaning the Oscar Awards dataset(Once we understand the dataset, we continue to perform the following steps to ensure that the data is free of errors, inconsistencies, and missing values). 
 For display purposes, a new column was created “filmy, " a combination of the film name and the ceremony year,Next, we analyzed how many winners (in any category) by splitting the dataset into winners and non-winners and displayed the winners only:In total, we have 2125 winners that won an Oscar category.
-ANd answers all questions.
+And answers all questions.
